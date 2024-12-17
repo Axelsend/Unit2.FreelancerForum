@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    width: 25vw;
+    margin: auto;
+    margin-top: 1vw;
+    
+}
+
+table {
+    text-align: center;
+    width: 25vw;
+    margin: auto;
+    margin-top: 1vw;
+}
